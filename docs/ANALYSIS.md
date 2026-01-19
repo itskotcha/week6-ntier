@@ -57,6 +57,14 @@
 ## 5. สรุปผลการทดลอง (Conclusion)
 การทำ N-Tier Architecture บน Single VM ช่วยให้เห็นภาพการทำงานของระบบระดับ Production ได้ชัดเจนขึ้น แม้จะรันบนเครื่องเดียวแต่การแยก Process และ Port ของแต่ละ Service (Nginx, Node, Postgres) ทำให้เข้าใจหลักการ Separation of Concerns และเตรียมพร้อมสำหรับการแยก Server จริงในอนาคต (Multi-VM)
 
+## screenshot
+### ./scripts/test-api.sh
+<img width="614" height="402" alt="image" src="https://github.com/user-attachments/assets/70a8422e-d7de-4511-b6c6-1fac50156d84" />
+
+### https://taskboard.local/
+<img width="864" height="2495" alt="taskboard local_" src="https://github.com/user-attachments/assets/c328cd63-b1b7-45aa-ba85-9e8116bac4f4" />
+
 ---
+## Author
 **ผู้จัดทำ:** นางสาวกชพร วงศ์ใหญ่
 **รหัสประจำตัว:** 67543210067-4
